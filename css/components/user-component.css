@@ -52,3 +52,9 @@
   margin-bottom: 10px;
   display: block;
 }
+
+.user-component__subtitle i {
+  margin-left: 4px;
+  color: red;
+  opacity: 0.6;
+}

@@ -57,3 +57,18 @@
   left: 73px;
   bottom: 20px;
 }
+
+.nav__dot-more {
+  background-color: tomato;
+  width: 7px;
+  height: 7px;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  font-weight: 600;
+  position: absolute;
+  left: 120px;
+  bottom: 20px;
+}
