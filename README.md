@@ -1,3 +1,3 @@
-# Kokoa Clone 2020 Update
+# Kokoa messenger
 
 HTML & CSS are so much better !
